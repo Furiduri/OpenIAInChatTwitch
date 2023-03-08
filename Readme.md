@@ -39,14 +39,14 @@ Usa `!sillaUwU` o `!UwU`, segido una pregunta, para que te responda la IA.
 Para salir oprime `CTRL + C` o cierra la consola de comandos.
 
 ## ⭐ Personalizacion
-Cambia la parsonalidad de la IA indicandocela en el archivo Key.js, en la propiedad `personality`
+Cambia la personalidad de la IA indicando su actitud, en el archivo Key.js, en la propiedad `personality`
 
 Cambia el comando a usar en la propiedad `comman`, y sus distintas variaciones en `comman_alias` (cada una entre comillas dobles y separadas por coma `["uwu","UwU"]`)
 
 ### 📝 Notas
 Los mensajes siguientes son comunes, y se deben ignorar:
 
-Mensaje ocasionado por la API de OpenIA, no encontrado la manera de evitarlo, pero no presenta problemas para el funcionamiento: 
+Mensaje ocasionado por la API de OpenIA, no he encontrado la manera de evitarlo, pero no presenta problemas para el funcionamiento: 
 
     ****** MESSAGE_RE Failed! ******
 
