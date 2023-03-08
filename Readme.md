@@ -1,27 +1,27 @@
 #  👨‍💻 Como usar
-Se requiere installar Python en tu computadora, descargalo del sigiente link
+Se requiere instalar Python en tu computadora, descargalo en el sigiente link: 
 https://www.python.org/downloads/
 
 ## 👨‍💻 Configuracion de Api GPT
-En el archivo Keys.json, debes modificar los sigiente, tu Key de OpenAI:
+En el archivo `Keys.json`, debes modificar lo sigiente, tu `Key de OpenAI`:
 
     "api_key" = "sk-********"
 
 obtenla en https://platform.openai.com/account/api-keys
 
 ## 👨‍💻 Configuracion API Twitch
-En el archivo Key.json, debes modificar lo siguientes datos: 
+En el archivo `Key.json`, debes modificar lo siguientes datos: 
 
 Tu nombre de usuario de la cuanta que usara la IA
 
     "nickname": ""
 
-El token que obtienes usando la cuenta con la que respondera la IA, se obtine en:
+El token que obtienes `usando la cuenta con la que respondera la IA`, se obtine en:
  https://twitchapps.com/tmi/
 
     "tokenTwitch": "oauth:***"
 
-El canal en el que escuhara el chat
+El canal que escuhara y respondera el Bot en el chat
 
     "channel": "Tu canal"
 
