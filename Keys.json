@@ -1,0 +1,9 @@
+{
+    "api_key" : "sk-**",
+    "nickname": "**",    
+    "tokenTwitch": "oauth:***",
+    "channel": "***",    
+    "personality": "Responde en tono bromista, y un poco pesimista",
+    "comman": "uwu",
+    "comman_alias": ["sillauwu","sillaUWU","UwU","uwu","pregunta","Pregunta"]
+}
