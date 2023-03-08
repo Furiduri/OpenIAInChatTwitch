@@ -26,7 +26,7 @@ El canal en el que escuhara el chat
     "channel": "Tu canal"
 
 ## 🤖 Como inicar
-Abre una consola de comandos `cmd`, y escribe lo sigueinte:
+Abre una consola de comandos `cmd`, dando `Shif + Click derecho` en la carpeta donde esta el archivo `Twitch.py`, y escribe lo sigueinte en la consola:
 
     python.exe .\Twitch.py
 
