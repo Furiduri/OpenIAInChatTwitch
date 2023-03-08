@@ -2,6 +2,11 @@
 Se requiere instalar Python en tu computadora, descargalo en el sigiente link: 
 https://www.python.org/downloads/
 
+Abre una consola de comandos `cmd`, he instala las siguientes librerías, 
+
+    pip install openai
+    pip install twitchio
+
 ## 👨‍💻 Configuracion de Api GPT
 En el archivo `Keys.json`, debes modificar lo sigiente, tu `Key de OpenAI`:
 
@@ -53,4 +58,4 @@ Mensaje ocasionado por la API de OpenIA, no he encontrado la manera de evitarlo,
 Mensaje mostrado cuando se usa un comando que no existe.
 
     Ignoring exception in command: No command "a" was found.:
-    twitchio.ext.commands.errors.CommandNotFound: No command "a" was found
+    twitchio.ext.commands.errors.CommandNotFound: No command "a" was found≥
